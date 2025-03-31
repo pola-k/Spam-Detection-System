@@ -13,7 +13,7 @@ The **Spam Detection System** is a web-based application designed to classify em
 ## 🏗️ Tech Stack
 - **Frontend**: React (Vite), JavaScript, CSS
 - **Backend**: Flask (Python)
-- **Machine Learning Model**: Scikit-learn (Random Forest Classifier)
+- **Machine Learning Model**: Scikit-learn (Random Forest Classifier) with **98.3% accuracy**
 
 ## 📂 Project Structure
 ```
